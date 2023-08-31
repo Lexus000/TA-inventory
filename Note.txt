@@ -1,0 +1,7 @@
+Admin:
+user : endangtri07
+Pass : admin_1
+
+Pegawai:
+user : emplo01
+Pass : emplo_01
